@@ -62,3 +62,7 @@ nav ul {
   padding: 10px 20px;
   border-radius: 20px;
 }
+.about {
+  background-color: #95d1cc;
+  height: 10vh;
+}
